@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+footer {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+
+.blog-posts {
+    margin: 20px;
+}
+
+.post {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
